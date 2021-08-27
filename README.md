@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imnotdev25
-- 👀 I’m interested in ... Java,C#,Cpp
+- 👀 I’m interested in ... JavaScript,C#,Cpp
 - 🌱 I’m currently learning ... Front-end Development
 - 📫 How to reach me ... ironman-gujju@pm.me
 
