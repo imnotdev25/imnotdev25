@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imnotdev25
-- 👀 I’m interested in ... JavaScript,C#,Cpp
-- 🌱 I’m currently learning ... Front-end Development
+- 👀 I’m interested in ... Front-end development
+- 🌱 I’m currently learning ... Python.
 - 📫 How to reach me ... ironman-gujju@pm.me
 
 <!---
