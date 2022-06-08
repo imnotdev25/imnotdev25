@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @imnotdev25
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imnotdev25&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 - 👀 I’m interested in ... Front-end development
 - 🌱 I’m currently learning ... Python.
-- 📫 How to reach me ... ironman-gujju@pm.me
+- 📫 How to reach me ... ironmancloud@pm.me
 
 <!---
 imnotdev25/imnotdev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
