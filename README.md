@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imnotdev25
 
-<h2 align="left">Hi 👋! I'm @imnotdev25 and I'm a Chemical Engineer, from Gujarat,Surat </h2>
+<h2 align="left">Hi 👋! I'm @imnotdev25 and I'm a Chemical Engineer, from Surat </h2>
 
 ###
 
