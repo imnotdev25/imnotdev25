@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imnotdev25
+
 
 <h2 align="left">Hi 👋! I'm @imnotdev25 and I'm a Chemical Engineer, from Surat </h2>
 
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <i>Random dev joke for you!</i><br>
