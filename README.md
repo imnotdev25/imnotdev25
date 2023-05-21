@@ -47,7 +47,4 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotdev25&theme=2077" height="180em" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<i>Random dev joke for you!</i><br>
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 </div>
