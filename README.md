@@ -43,9 +43,8 @@
 <div align="center">
 <a href="https://github.com/imnotdev25">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imnotdev25&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imnotdev25&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imnotdev25&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imnotdev25&theme=2077" height="180em" />
+<
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotdev25&theme=2077" height="180em" />
 </div>
 
