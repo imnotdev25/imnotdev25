@@ -44,11 +44,8 @@
 <a href="https://github.com/imnotdev25">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imnotdev25&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imnotdev25&theme=2077" height="180em" />
-<
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotdev25&theme=2077" height="180em" />
-</div>
-
-
-###
 <i>Random dev joke for you!</i><br>
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+</div>
