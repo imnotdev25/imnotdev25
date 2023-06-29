@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imnotdev25&theme=" alt="imnotdev25" /></a> </p>
 
 - 🔭 I’m currently working on **Data driven model for safety related property of chemical substances**
-- 🌱 I’m currently learning **Machine learning **
+- 🌱 I’m currently learning **Machine learning**
 - 💬 Ask me about **Python**
 
 
