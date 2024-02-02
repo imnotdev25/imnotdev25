@@ -1,50 +1,107 @@
-<h3 align="center">Chemical engineer with a passion for Python</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imnotdev25&label=Profile%20views&color=0e75b6&style=flat" alt="imnotdev25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imnotdev25&theme=" alt="imnotdev25" /></a> </p>
-
-- 🔭 I’m currently working on **Data driven model for safety related property of chemical substances**
-- 🌱 I’m currently learning **Machine learning**
-- 💬 Ask me about **Python**
-
-
-<div> <a href="https://github.com/imnotdev25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdev25&layout=compact&theme=vue" alt=imnotdev25 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=imnotdev25&show_icons=true&locale=en&theme=" alt="imnotdev25" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotdev25&theme=" alt="imnotdev25" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/imnotdev25">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imnotdev25&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imnotdev25&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotdev25&theme=2077" height="180em" />
+<h1 align="center">Hi 👋, I'm Talaviya Bhavik</h1>
 
+<p><b>As a data science enthusiast from India, I am passionate about creating seamless and user-friendly software with expertise in machine learning and generative AI.</b></p>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2028%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 126 Contributions in the Year 2024
+ > 
+> 💼 Open to Hire
+ > 
+> 📜 58 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Night 🦉** 
+
+```text
+🌞 Morning                4600 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+🌆 Daytime                12435 commits       ██████████░░░░░░░░░░░░░░░   41.17 % 
+🌃 Evening                12683 commits       ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌙 Night                  484 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Tuesday                  4537 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Wednesday                4112 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 3835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   5171 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 4445 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Sunday                   4620 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Go                       1 hr 50 mins        ███████████████████░░░░░░   74.83 % 
+JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+INI                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+
+🔥 Editors: 
+PyCharm                  2 hrs 27 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mint Linux               2 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Go** 
+
+```text
+Python                   30 repos            ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Go                       22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+HTML                     19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/imnotdev25/imnotdev25/master/assets/bar_graph.png)
+
+
+ Last Updated on 02/02/2024 01:15:27 UTC
+<!--END_SECTION:waka-->
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhavik_t25)
+[![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavik-talaviya/)](https://www.linkedin.com/in/amarnathcdj/)
+<br>
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/imnotdev25)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
+<br>
+[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://tx.me/talaviya_bhavik)
+[![Leetcode](https://img.shields.io/badge/-GitLab-FFA116?style=for-the-badge&logo=gitlab&logoColor=black)](https://leetcode.com/roseloverx/)
+[![StackOverflow](https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23335314)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Fastapi](https://img.shields.io/badge/-fastapi-00979D?style=for-the-badge&logo=fastapi&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-23009639?style=for-the-badge&logo=linuxmint&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imnotdev25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imnotdev25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdev25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imnotdev25&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=imnotdev25&icon=3&color=1)](https://visitcount.itsvg.in)
 </div>
