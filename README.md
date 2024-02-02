@@ -76,7 +76,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/imnotdev25)
 <br>
 [![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://tx.me/talaviya_bhavik)
-[![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-00000?style=for-the-badge&logo=hackerrank&logoColor=white)]()
+[![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-00000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/talaviyabhavik)
 [![StackOverflow](https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23335314)
 
 # 💻 Tech Stack:
