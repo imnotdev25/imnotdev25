@@ -74,10 +74,9 @@ C++                      1 repo              ░░░░░░░░░░░�
 [![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavik-talaviya/)](https://www.linkedin.com/in/amarnathcdj/)
 <br>
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/imnotdev25)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
 <br>
 [![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://tx.me/talaviya_bhavik)
-[![Leetcode](https://img.shields.io/badge/-GitLab-FFA116?style=for-the-badge&logo=gitlab&logoColor=black)](https://leetcode.com/roseloverx/)
+[![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-00000?style=for-the-badge&logo=hackerrank&logoColor=white)]()
 [![StackOverflow](https://img.shields.io/badge/STKOverflow-%23E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23335314)
 
 # 💻 Tech Stack:
