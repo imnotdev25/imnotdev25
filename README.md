@@ -54,7 +54,7 @@ Mint Linux               2 hrs 27 mins       ███████████�
 
 ```text
 Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-Go                       22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Go                       19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 HTML                     19 repos            █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
 CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
@@ -62,16 +62,13 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/imnotdev25/imnotdev25/master/assets/bar_graph.png)
 
 
  Last Updated on 02/02/2024 01:15:27 UTC
 <!--END_SECTION:waka-->
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhavik_t25)
-[![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavik-talaviya/)](https://www.linkedin.com/in/amarnathcdj/)
+[![Linkedin: Amarnath](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavik-talaviya/)](https://www.linkedin.com/in/bhavik-talalviya)
 <br>
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/imnotdev25)
 <br>
