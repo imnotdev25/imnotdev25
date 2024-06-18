@@ -5,22 +5,6 @@
 <p><b>As a data science enthusiast from India, I am passionate about creating seamless and user-friendly software with expertise in machine learning and generative AI.</b></p>
 <br>
 
-```
-🔥 Editors: 
-PyCharm                  2 hrs 27 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mint Linux               2 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-
-```
-
-
 
 
 
